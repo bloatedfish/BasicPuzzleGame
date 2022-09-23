@@ -1,0 +1,1 @@
+global.animationPlaying = true;
